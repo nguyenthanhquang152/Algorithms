@@ -4,8 +4,8 @@ import java.util.List;
 
 public class LongestCommonSubString {
     public static void main(String[] args) {
-        System.out.println(dp("north man c", "south man u"));
-        System.out.println(recurse("north man c", "south man u"));
+        System.out.println(dp("abcd", "aebd"));
+        System.out.println(recurse("abcd", "aebd"));
     }
 
     public static int recurse(String s1, String s2){
