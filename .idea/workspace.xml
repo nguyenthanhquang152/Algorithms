@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23256b82-46ce-4cee-8d38-b2d8ec7cc321" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/preparation/LongestCommonSubString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/preparation/LongestPalindromeCommonSubsequences.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/LongestCommonSubString.class" afterPath="$PROJECT_DIR$/out/production/classes/LongestCommonSubString.class" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LongestCommonSubString.java" afterPath="$PROJECT_DIR$/src/main/java/LongestCommonSubString.java" />
-    </list>
+    <list default="true" id="23256b82-46ce-4cee-8d38-b2d8ec7cc321" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
